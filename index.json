@@ -1,0 +1,20 @@
+{
+  "packs": [
+    {
+      "id": "test.python",
+      "kind": "language",
+      "displayName": "Python (Test Pack)",
+      "supportedLanguages": [
+        "python"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/test.python-1.0.0.aiclp",
+          "minExtensionVersion": "0.0.8",
+          "publishedAt": "2026-05-25T23:15:14.087Z"
+        }
+      ]
+    }
+  ]
+}
