@@ -1,7 +1,7 @@
 {
   "packs": [
     {
-      "id": "builtin.csharp",
+      "id": "csharp",
       "kind": "language",
       "displayName": "C#",
       "supportedLanguages": [
@@ -12,15 +12,15 @@
           "version": "0.0.8",
           "channel": "stable",
           "format": "aiclp-envelope-v1",
-          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/builtin.csharp-0.0.8.aiclp",
-          "sha256": "202c4e1a4cc46cbb7bc87379c6b35ca9ce28a17e64696b9daa08a5f1054e7530",
+          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/csharp-0.0.8.aiclp",
+          "sha256": "02e00c7f70be97bedceadb0e43a071a1cec3d972372802c78e08dc6d00c37670",
           "minExtensionVersion": "0.0.0",
-          "publishedAt": "2026-05-31T23:36:56.052Z"
+          "publishedAt": "2026-05-31T23:49:47.108Z"
         }
       ]
     },
     {
-      "id": "builtin.dart",
+      "id": "dart",
       "kind": "language",
       "displayName": "Dart",
       "supportedLanguages": [
@@ -31,15 +31,15 @@
           "version": "0.0.8",
           "channel": "stable",
           "format": "aiclp-envelope-v1",
-          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/builtin.dart-0.0.8.aiclp",
-          "sha256": "4530ba9d8abd5ea51ddb7fce7d4b2943189ea9950d8b56b43b327740d1ce746b",
+          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/dart-0.0.8.aiclp",
+          "sha256": "c54dec8e248403986c1e8ede431ef95f3951df7a5fcadb0aff8b02e4da3db423",
           "minExtensionVersion": "0.0.0",
-          "publishedAt": "2026-05-31T23:36:56.099Z"
+          "publishedAt": "2026-05-31T23:49:47.139Z"
         }
       ]
     },
     {
-      "id": "builtin.go",
+      "id": "go",
       "kind": "language",
       "displayName": "Go",
       "supportedLanguages": [
@@ -50,15 +50,15 @@
           "version": "0.0.8",
           "channel": "stable",
           "format": "aiclp-envelope-v1",
-          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/builtin.go-0.0.8.aiclp",
-          "sha256": "27524f3303c383fb26ad551133c4e46e65d1dfa2fa8c42dbe981fff73f8e339c",
+          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/go-0.0.8.aiclp",
+          "sha256": "38ea2aa38c3dff7e70e5a1a67ceb6f1c662280d9227cd92fc804f4a7f3a441aa",
           "minExtensionVersion": "0.0.0",
-          "publishedAt": "2026-05-31T23:36:56.117Z"
+          "publishedAt": "2026-05-31T23:49:47.153Z"
         }
       ]
     },
     {
-      "id": "builtin.java",
+      "id": "java",
       "kind": "language",
       "displayName": "Java",
       "supportedLanguages": [
@@ -69,15 +69,15 @@
           "version": "0.0.8",
           "channel": "stable",
           "format": "aiclp-envelope-v1",
-          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/builtin.java-0.0.8.aiclp",
-          "sha256": "d74686ff8bac4d535d2d57db4ca8bb2c3088a5c2b8c8a528d4484e8e10f31fed",
+          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/java-0.0.8.aiclp",
+          "sha256": "8b52e0cdd7f216a69dd45e8680d9ef6e8a703b00391b348ec459bc87589b5431",
           "minExtensionVersion": "0.0.0",
-          "publishedAt": "2026-05-31T23:36:56.134Z"
+          "publishedAt": "2026-05-31T23:49:47.169Z"
         }
       ]
     },
     {
-      "id": "builtin.kotlin",
+      "id": "kotlin",
       "kind": "language",
       "displayName": "Kotlin",
       "supportedLanguages": [
@@ -88,15 +88,15 @@
           "version": "0.0.8",
           "channel": "stable",
           "format": "aiclp-envelope-v1",
-          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/builtin.kotlin-0.0.8.aiclp",
-          "sha256": "7fec88148ec3a4de29bfdedc18c8f596e11c0edaee81a06e3405a0d470fe0b05",
+          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/kotlin-0.0.8.aiclp",
+          "sha256": "3844dea30a42f4eaa82a2f4213245e5577aedab0a1a2bdc77b84c7421fa17fa0",
           "minExtensionVersion": "0.0.0",
-          "publishedAt": "2026-05-31T23:36:56.211Z"
+          "publishedAt": "2026-05-31T23:49:47.247Z"
         }
       ]
     },
     {
-      "id": "builtin.php",
+      "id": "php",
       "kind": "language",
       "displayName": "PHP",
       "supportedLanguages": [
@@ -107,15 +107,15 @@
           "version": "0.0.8",
           "channel": "stable",
           "format": "aiclp-envelope-v1",
-          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/builtin.php-0.0.8.aiclp",
-          "sha256": "5b394f97e56784e521e1d3254155e93d81d2c53574f8caff404fbb937309ae44",
+          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/php-0.0.8.aiclp",
+          "sha256": "904725c9299ea59618b3523a66f7b022083478044245e1f3b9d09a10f61dd95f",
           "minExtensionVersion": "0.0.0",
-          "publishedAt": "2026-05-31T23:36:56.241Z"
+          "publishedAt": "2026-05-31T23:49:47.288Z"
         }
       ]
     },
     {
-      "id": "builtin.python",
+      "id": "python",
       "kind": "language",
       "displayName": "Python",
       "supportedLanguages": [
@@ -126,15 +126,15 @@
           "version": "0.0.8",
           "channel": "stable",
           "format": "aiclp-envelope-v1",
-          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/builtin.python-0.0.8.aiclp",
-          "sha256": "031912f6efc15aa2de0ca74057e6cf14fe934336f0ac867465615da7f0c5ae89",
+          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/python-0.0.8.aiclp",
+          "sha256": "3592fa460006f8ae5b8fd9fd27284b3a30c8640a9ba0543b55176511e8c8b103",
           "minExtensionVersion": "0.0.0",
-          "publishedAt": "2026-05-31T23:36:56.262Z"
+          "publishedAt": "2026-05-31T23:49:47.315Z"
         }
       ]
     },
     {
-      "id": "builtin.react",
+      "id": "react",
       "kind": "language",
       "displayName": "React",
       "supportedLanguages": [],
@@ -143,15 +143,15 @@
           "version": "0.0.8",
           "channel": "stable",
           "format": "aiclp-envelope-v1",
-          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/builtin.react-0.0.8.aiclp",
-          "sha256": "c8a4c0ae4c279a00e9d108de77683996c7df3f0d810462b0be77acc8d0299b30",
+          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/react-0.0.8.aiclp",
+          "sha256": "b370d3addc5ce676195b7ee81055316c1c2c764e34cf24fa2556b6eeea6b5296",
           "minExtensionVersion": "0.0.0",
-          "publishedAt": "2026-05-31T23:36:56.268Z"
+          "publishedAt": "2026-05-31T23:49:47.322Z"
         }
       ]
     },
     {
-      "id": "builtin.ruby",
+      "id": "ruby",
       "kind": "language",
       "displayName": "Ruby",
       "supportedLanguages": [
@@ -162,15 +162,15 @@
           "version": "0.0.8",
           "channel": "stable",
           "format": "aiclp-envelope-v1",
-          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/builtin.ruby-0.0.8.aiclp",
-          "sha256": "a734e8fcd6ba35e447bcab3ed25da6ea0e0de5ff7790a744082d203b87919a93",
+          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/ruby-0.0.8.aiclp",
+          "sha256": "20a064c0ae450f37f7b5bb48cf212ed1bde64bba2315835c056f774ba13092b6",
           "minExtensionVersion": "0.0.0",
-          "publishedAt": "2026-05-31T23:36:56.305Z"
+          "publishedAt": "2026-05-31T23:49:47.374Z"
         }
       ]
     },
     {
-      "id": "builtin.rust",
+      "id": "rust",
       "kind": "language",
       "displayName": "Rust",
       "supportedLanguages": [
@@ -181,15 +181,15 @@
           "version": "0.0.8",
           "channel": "stable",
           "format": "aiclp-envelope-v1",
-          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/builtin.rust-0.0.8.aiclp",
-          "sha256": "57aa5e0c78dc343693296cfbfdf561b085a4dbefda67362c1c67fd7efeb29017",
+          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/rust-0.0.8.aiclp",
+          "sha256": "fd90fbe76e522b8e8e125af2e2a82c8582c80ba742a43b33f66c01aa57982de3",
           "minExtensionVersion": "0.0.0",
-          "publishedAt": "2026-05-31T23:36:56.351Z"
+          "publishedAt": "2026-05-31T23:49:47.420Z"
         }
       ]
     },
     {
-      "id": "builtin.sql",
+      "id": "sql",
       "kind": "language",
       "displayName": "SQL",
       "supportedLanguages": [
@@ -200,15 +200,15 @@
           "version": "0.0.8",
           "channel": "stable",
           "format": "aiclp-envelope-v1",
-          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/builtin.sql-0.0.8.aiclp",
-          "sha256": "e8c3c0b4342d7c484b2b5abb091e6263268c65e7b9e0d72d2db69a05221d1436",
+          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/sql-0.0.8.aiclp",
+          "sha256": "10f18b1403a736e34cd2013ce48bdd040e65c7e8a475c440357ffd36a0fe5c99",
           "minExtensionVersion": "0.0.0",
-          "publishedAt": "2026-05-31T23:36:56.515Z"
+          "publishedAt": "2026-05-31T23:49:47.568Z"
         }
       ]
     },
     {
-      "id": "builtin.swift",
+      "id": "swift",
       "kind": "language",
       "displayName": "Swift",
       "supportedLanguages": [
@@ -219,15 +219,15 @@
           "version": "0.0.8",
           "channel": "stable",
           "format": "aiclp-envelope-v1",
-          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/builtin.swift-0.0.8.aiclp",
-          "sha256": "9ba17f401f008f077f799f9c339f9c7b865540b73cf5a7dcda3a8bdb2ae6535a",
+          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/swift-0.0.8.aiclp",
+          "sha256": "52fe27b5b7e52ff8b9cf7759298b527247b868f0b1a9423d75de375fd30a3a46",
           "minExtensionVersion": "0.0.0",
-          "publishedAt": "2026-05-31T23:36:56.584Z"
+          "publishedAt": "2026-05-31T23:49:47.629Z"
         }
       ]
     },
     {
-      "id": "builtin.typescript",
+      "id": "typescript",
       "kind": "language",
       "displayName": "TypeScript",
       "supportedLanguages": [],
@@ -236,10 +236,10 @@
           "version": "0.0.8",
           "channel": "stable",
           "format": "aiclp-envelope-v1",
-          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/builtin.typescript-0.0.8.aiclp",
-          "sha256": "c1eeb3d11cd8f0108d75c3cb073f3cc8d971ca7fe127cb3ca60fed2bb8dbf805",
+          "downloadUrl": "https://github.com/Maryarty/ai_context_builder-packs/releases/download/0.0.1/typescript-0.0.8.aiclp",
+          "sha256": "8403bd4c9a2c05fef8fdbe523fb30404bcba5b9de232d4a5cb90a83c8343c32f",
           "minExtensionVersion": "0.0.0",
-          "publishedAt": "2026-05-31T23:36:56.594Z"
+          "publishedAt": "2026-05-31T23:49:47.636Z"
         }
       ]
     }
