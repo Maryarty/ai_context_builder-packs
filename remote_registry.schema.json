@@ -60,6 +60,11 @@
           "type": "string",
           "minLength": 1
         },
+        "channel": {
+          "type": "string",
+          "enum": ["stable", "beta"],
+          "description": "Release channel for this version. Absent is treated as 'stable'. Stable clients see only stable versions; beta clients see both stable and beta."
+        },
         "downloadUrl": {
           "type": "string",
           "format": "uri",
