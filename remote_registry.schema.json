@@ -65,10 +65,20 @@
           "enum": ["stable", "beta"],
           "description": "Release channel for this version. Absent is treated as 'stable'. Stable clients see only stable versions; beta clients see both stable and beta."
         },
+        "format": {
+          "type": "string",
+          "enum": ["aiclp-envelope-v1"],
+          "description": "Archive format of the download. Absent is treated as the signed envelope format ('aiclp-envelope-v1'), the only format the runtime accepts."
+        },
         "downloadUrl": {
           "type": "string",
           "format": "uri",
           "pattern": "^https?://"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$",
+          "description": "Optional lowercase-hex SHA-256 of the whole .aiclp file, used for a download cache / integrity pre-check. The cryptographic trust boundary is the envelope signature, not this value."
         },
         "minExtensionVersion": {
           "type": "string",
